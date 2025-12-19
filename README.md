@@ -1,123 +1,144 @@
-<div align="center">
+# ⚠️ SORUMLULUK REDDİ (DISCLAIMER)
 
-# 👨‍💻 Mert Merkit  
-### Cybersecurity • Ethical Hacking • IT Operations
+Bu GitHub profilinde ve bağlı tüm repolarda yer alan içerikler;
+**eğitim, farkındalık ve savunma (defansif) amaçlıdır**.
 
-🛡️ SOC & Incident Response Odaklı  
-🧠 Analitik • Operasyonel • Dokümantasyon  
-🇹🇷 Türkiye
+Paylaşılan bilgiler:
+- Yalnızca **etik**, **yasal** ve **izinli** ortamlarda kullanılmalıdır.
+- Yetkisiz sistemlere yönelik her türlü kullanım **kullanıcının kendi sorumluluğundadır**.
+- İçerikler, **SOC / Incident Response / Blue Team** bakış açısını geliştirmek amacıyla hazırlanmıştır.
+
+Bu profil, saldırı öğretmekten ziyade **saldırı davranışlarını anlayarak savunma yapmayı** hedefler.
 
 ---
 
-![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
-![SOC](https://img.shields.io/badge/Focus-SOC%20%26%20Incident%20Response-blue)
-![EthicalHacker](https://img.shields.io/badge/Role-Ethical%20Hacker-black)
-![IT](https://img.shields.io/badge/Field-IT%20Operations-informational)
-![OpenSource](https://img.shields.io/badge/Open%20Source-Active-success)
+# 👋 Merhaba, ben **Mert Merkit**
+**Cybersecurity • SOC & Incident Response • Defensive Security Mindset**
 
-</div>
+📍 Türkiye  
+💼 Freelance / Danışmanlık  
+🎯 Odak: SOC analist düşünce yapısı, olay müdahale ve davranış analizi
 
 ---
 
 ## 🧠 Hakkımda
 
-Siber güvenlik ve BT altyapıları alanında, özellikle  
-**SOC (Security Operations Center)** süreçleri,  
-**Incident Response** ve **Ethical Hacking** konularına odaklanan  
-bir IT & Cybersecurity profesyoneliyim.
+Siber güvenlik ve BT operasyonları alanında, özellikle **SOC (Security Operations Center)** süreçleri,
+**Incident Response** ve **defansif güvenlik** üzerine odaklanan bir siber güvenlik öğrencisi ve uygulayıcısıyım.
 
-Güvenlik olaylarını yalnızca alarm olarak değil,  
-**neden–sonuç ilişkisiyle analiz edilmesi gereken operasyonel süreçler**  
-olarak ele alırım.
+Araçları ezberlemekten çok:
+- **Neden bu alarm geldi?**
+- **Bu davranış neyi işaret ediyor?**
+- **SOC analisti burada nasıl düşünmeli?**
 
-Savunma tarafında güçlü olmanın,  
-saldırı tekniklerini anlamaktan geçtiğine inanırım.
+sorularına cevap ararım.
 
----
-
-## 🎯 Uzmanlık Alanları
-
-### 🔐 Cybersecurity & SOC
-- Phishing, Malware, Brute Force olay analizi  
-- Lateral Movement & zincir saldırılar  
-- SIEM mantığı & log korelasyonu  
-- Incident Response süreçleri  
-
-### 🧪 Ethical Hacking (Defensive Mindset)
-- Nmap ile ağ keşfi ve servis analizi  
-- Temel pentest metodolojileri  
-- Saldırı tekniklerinin savunma tarafında yorumlanması  
-
-### 🖥️ IT & Sistem Operasyonları
-- Windows / Active Directory  
-- TCP/IP, DNS, SSH  
-- Son kullanıcı desteği  
-- WordPress güvenlik & performans (yan uzmanlık)
+Bu GitHub profili, **sıfırdan başlayıp SOC analisti bakış açısına kadar ilerleyen** Türkçe bir öğrenme ve öğretme yolculuğudur.
 
 ---
 
-## 📂 Öne Çıkan Projeler
+## 🎯 Bu GitHub’ın Amacı
 
-### 🛡️ SOC Olay Müdahale Rehberi
-Türkçe hazırlanmış, **gerçek SOC senaryoları ve SOC kılavuzları**.
+Bu profil bir “tool dump” değildir.
 
-🔗 https://github.com/MertxMerkit/soc-olay-mudahale-rehberi
+Amaç:
+- 🔍 Saldırı davranışlarını **teorik + pratik** şekilde anlamak  
+- 🧠 SOC analist refleksi kazandırmak  
+- 📊 Log, alarm ve olaylara **yorum katabilmeyi** öğretmek  
+- 🇹🇷 Türkçe, anlaşılır ve senaryolu kaynak üretmek
 
 ---
 
-### 🌐 Nmap Türkçe Rehber
-Nmap çıktılarının **Türkçe & açıklamalı** anlatımı.
+## 🛠️ Odaklandığım Alanlar
+
+### 🔵 SOC & Blue Team
+- Alarm triage mantığı  
+- Olay sınıflandırma (Incident Categorization)  
+- Log analizi & korelasyon  
+- Playbook ve olay müdahale süreçleri
+
+### 🧠 MITRE ATT&CK
+- Taktik & tekniklerin mantığı  
+- Discovery, Initial Access, Execution ilişkileri  
+- Saldırı davranışını savunma tarafında okuma
+
+### 🌐 Nmap & Network Discovery
+- Port / servis keşfi  
+- Çıktıların SOC açısından yorumlanması  
+- Nmap → MITRE Discovery eşleştirmeleri
+
+### 💻 BT & Sistem Temelleri
+- TCP/IP, DNS, temel ağ mantığı  
+- Windows & Active Directory  
+- WordPress güvenlik ve performans farkındalığı
+
+---
+
+## 📌 Öne Çıkan Rehberlerim
+
+### 📘 Nmap Türkçe Açıklamalı Rehber
+SOC / NOC adayları için:
+- Nmap çıktıları **satır satır**
+- Gerçekçi örnekler
+- Yanlış yorumlanan noktalar
 
 🔗 https://github.com/MertxMerkit/nmap-turkce-rehber
 
 ---
 
-## 📊 GitHub İstatistikleri
+### 📕 SOC Olay Müdahale Rehberi
+Gerçek hayata yakın senaryolar:
+- Phishing
+- Malware
+- Yetkisiz erişim
+- Olay müdahale playbook’ları
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MertxMerkit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertxMerkit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Aktivite & Devamlılık
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MertxMerkit&theme=tokyo-night&hide_border=true" />
-
-
-</div>
+🔗 https://github.com/MertxMerkit/soc-olay-mudahale-rehberi
 
 ---
 
-## 🧩 Çalışma Yaklaşımım
+### 📗 MITRE + Nmap + SOC Teorik Seri
+Saldırı → Davranış → Log → Alarm → Müdahale zinciri
 
-- Öğrendiklerimi **dokümante ederim**
-- Bilgiyi **açık kaynak olarak paylaşırım**
-- Senaryo + kılavuz ile **operasyon refleksi geliştiririm**
+- MITRE Discovery nedir?
+- Nmap çıktıları MITRE ile nasıl eşleştirilir?
+- SOC analisti neye bakmalı?
 
-> “Güvenlik, araçtan önce düşünce işidir.”
-
----
-
-## 📫 İletişim
-
-- 💼 **LinkedIn**  
-  https://www.linkedin.com/in/mert-merkit-35b724335/
-
-- 📧 **E-posta**  
-  mertmerkit@protonmail.com
+🔗 https://github.com/MertxMerkit (ilgili repo)
 
 ---
 
-<div align="center">
+## 🧭 Öğrenme Yol Haritası (Önerilen Sıra)
 
-⭐ Repo’larımı faydalı bulduysan yıldızlamayı unutma  
-🤝 Siber güvenlik yolculuğunda birlikte öğrenelim
+1️⃣ **Nmap & Network Discovery**  
+2️⃣ **MITRE ATT&CK mantığı**  
+3️⃣ **SOC log ve alarm bakışı**  
+4️⃣ **Incident Response & Playbook**  
+5️⃣ **Analist düşünce yapısı**
 
-</div>
+Bu repolar bu sıraya göre tasarlanmıştır.
+
+---
+
+## 🔗 Bağlantılar
+
+🌐 Web: https://mertmerkit.com.tr  
+💼 LinkedIn: https://www.linkedin.com/in/mert-merkit-35b724335  
+📬 E-posta: mertmerkit@protonmail.com  
+🐙 GitHub: https://github.com/MertxMerkit
+
+---
+
+## 🧠 Çalışma Felsefem
+
+> “Güvenlik araçla değil, **düşünceyle** başlar.”
+
+- Ne yaptığını açıklayamıyorsan bilmiyorsundur  
+- Alarm ≠ Olay  
+- Log okumadan yorum yapılmaz  
+- Dokümantasyon yoksa öğrenme yoktur
+
+---
+
+⭐ Rehberler faydalıysa yıldızlayarak destek olabilirsin  
+🇹🇷 Türkçe siber güvenlik kaynaklarını birlikte büyütelim
