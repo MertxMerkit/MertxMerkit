@@ -1,110 +1,74 @@
-# Mert Merkit  
-### SOC / NOC Odaklı Siber Güvenlik • Blue Team • Açık Kaynak Eğitim
+# 👋 Hi, I’m Mert Merkit
+
+**Cybersecurity • SOC • Incident Response • IT Operations**
+
+I am a cybersecurity professional focused on **defensive security**, particularly **SOC processes**, **incident response**, and analytical operational workflows.  
+I analyze security events not as isolated alerts, but through cause-and-effect reasoning — just like a real SOC analyst does.
+
+My approach combines **defense mindset with attacker understanding**: defenders become stronger by knowing offensive techniques.
 
 ---
 
-## ⚠️ Sorumluluk Reddi (Disclaimer)
+## 🧠 Areas of Expertise
 
-Bu GitHub profilinde yer alan tüm içerikler **eğitim, savunma, tespit ve olay müdahalesi farkındalığı** amacıyla hazırlanmıştır.  
-Yetkisiz erişim, saldırı, istismar veya zarar verme **yasa dışıdır**.
+### Cybersecurity & SOC
+- Phishing, malware, and brute force incident analysis  
+- Lateral movement & attack chain interpretation  
+- SIEM logic & log correlation  
+- Alert interpretation and incident handling
 
-Amaç; saldırı tekniklerini öğretmek değil, **anlamak, tespit etmek ve engellemektir**.
+### Defensive-Mindset Ethical Hacking
+- Network scanning and service analysis with Nmap  
+- Fundamental penetration testing methodologies  
+- Translating offensive techniques into defensive insights
 
----
-
-## 👤 Profil Özeti
-
-SOC / NOC temelleri, ağ keşfi (discovery), saldırı zinciri analizi ve olay müdahalesi (Incident Response) konularında  
-**Türkçe, teknik ve yapılandırılmış** açık kaynak eğitim içerikleri üretiyorum.
-
-Odak noktalarım:
-- SOC analist bakış açısı  
-- MITRE ATT&CK tabanlı tehdit modelleme  
-- Log analizi ve olay korelasyonu  
-- Saldırı zincirinin erken aşamada tespiti  
-
-Yaklaşımım araç ezberinden ziyade **davranış, kanıt ve zincir** üzerine kuruludur.
+### IT & Systems Operations
+- Windows / Active Directory  
+- TCP/IP, DNS, SSH basics  
+- End-user support  
+- WordPress security & performance (secondary specialization)
 
 ---
 
-## 🧭 Eğitim ve Repo Yapısı (Öğrenme Yolu)
+## ⭐ Featured Projects
 
-Bu GitHub profili bağımsız repolardan oluşan bir koleksiyon değil,  
-**sıralı ve kademeli bir eğitim yoludur**.
+### SOC Incident Response Guide  
+A structured guide to SOC incident handling scenarios and methodologies.  
+👉 https://github.com/MertxMerkit/soc-olay-mudahale-rehberi
 
----
+### Nmap Workshop & Output Guide  
+An annotated, practical Nmap output walkthrough for defenders.  
+👉 https://github.com/MertxMerkit/nmap-turkce-rehber
 
-### 🔰 Seviye 1 – Temel Ağ & Tarama
-
-**Nmap Türkçe Açıklamalı Rehber**  
-Port tarama, servis tespiti, çıktı okuma ve sık yapılan hatalar.  
-SOC/NOC adayları için temel keşif mantığı.
-
-🔗 https://github.com/MertxMerkit/nmap-turkce-rehber
-
----
-
-### 🧠 Seviye 2 – Discovery & MITRE ATT&CK
-
-**Nmap ve MITRE ATT&CK (Discovery)**  
-Keşif aşamasının MITRE karşılığı ve SOC’un bu aşamayı nasıl fark ettiği.
-
-🔗 https://github.com/MertxMerkit/nmap-mitre-attack-rehberi
+### Nmap + MITRE ATT&CK Interpretation
+How to interpret Nmap output in light of **MITRE ATT&CK Discovery tactics** from a defensive perspective.  
+👉 https://github.com/MertxMerkit/nmap-mitre-attack-rehberi
 
 ---
 
-### 🔗 Seviye 3 – Saldırı Zinciri (Teorik)
+## 📈 GitHub Stats
 
-**MITRE + Nmap + Metasploit + SOC Teoriği**  
-Saldırının baştan sona zincir halinde ele alınması  
-(savunma ve tespit perspektifiyle).
-
-🔗 https://github.com/MertxMerkit/soc-saldiri-zinciri-mitre-nmap-metasploit
+*Pinned repositories show my key work on security education and practical defensive content.*
 
 ---
 
-### 🛡️ Seviye 4 – SOC Olay Müdahale
+## 💡 Working Philosophy
 
-**SOC Olay Müdahale Rehberi**  
-Phishing, malware ve yetkisiz erişim senaryoları üzerinden  
-playbook yaklaşımı.
+- I document what I learn.  
+- I share knowledge as open-source resources.  
+- I build **scenario-based guides** to cultivate operational reflexes.
 
-🔗 https://github.com/MertxMerkit/soc-olay-mudahale-rehberi
-
----
-
-## 🧩 İçerik Felsefesi
-
-- Her doküman **sorumluluk reddi** ile başlar  
-- Her konu **MITRE ATT&CK zinciri** ile ilişkilendirilir  
-- SOC açısından **“nasıl fark edilir?”** sorusu cevaplanır  
-- Script veya exploit paylaşımı değil, **analiz ve savunma** ön plandadır
+> “Security is a matter of **thinking before tooling.**”
 
 ---
 
-## 📊 GitHub Aktivite
+## 📬 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MertxMerkit&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=MertxMerkit&hide_border=true&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MertxMerkit&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MertxMerkit&theme=tokyonight"/>
-</p>
+**LinkedIn:** https://www.linkedin.com/in/mert-merkit-35b724335/  
+**Email:** mertmerkit@protonmail.com  
+**Website:** https://mertmerkit.com.tr
 
 ---
 
-## 🔗 İletişim
-
-- 🌐 Web: https://mertmerkit.com.tr  
-- 💼 LinkedIn: https://www.linkedin.com/in/mert-merkit-35b724335/  
-- 📧 E-posta: mertmerkit@protonmail.com
-
----
-
-**Odak:** Alarm kapatmak değil, saldırıyı zincirde yakalamak.
+If you find my projects helpful, I’d appreciate a ⭐ on GitHub.  
+Let’s learn together in the cybersecurity journey!
