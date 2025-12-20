@@ -1,74 +1,147 @@
-# 👋 Hi, I’m Mert Merkit
+<!-- ===================== -->
+<!--  GITHUB PROFILE README -->
+<!-- ===================== -->
 
-**Cybersecurity • SOC • Incident Response • IT Operations**
+<h1 align="center">👋 Hi, I'm Mert</h1>
+<h3 align="center">Software • Cloud • Security • Automation</h3>
 
-I am a cybersecurity professional focused on **defensive security**, particularly **SOC processes**, **incident response**, and analytical operational workflows.  
-I analyze security events not as isolated alerts, but through cause-and-effect reasoning — just like a real SOC analyst does.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MertxMerkit&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-My approach combines **defense mindset with attacker understanding**: defenders become stronger by knowing offensive techniques.
-
----
-
-## 🧠 Areas of Expertise
-
-### Cybersecurity & SOC
-- Phishing, malware, and brute force incident analysis  
-- Lateral movement & attack chain interpretation  
-- SIEM logic & log correlation  
-- Alert interpretation and incident handling
-
-### Defensive-Mindset Ethical Hacking
-- Network scanning and service analysis with Nmap  
-- Fundamental penetration testing methodologies  
-- Translating offensive techniques into defensive insights
-
-### IT & Systems Operations
-- Windows / Active Directory  
-- TCP/IP, DNS, SSH basics  
-- End-user support  
-- WordPress security & performance (secondary specialization)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mert-m-35b724335/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mert%20Merkit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## 🧠 About Me
 
-### SOC Incident Response Guide  
-A structured guide to SOC incident handling scenarios and methodologies.  
-👉 https://github.com/MertxMerkit/soc-olay-mudahale-rehberi
+I design and build **systems that are meant to survive reality** — not demos.  
+My work sits at the intersection of **software engineering**, **cloud infrastructure**, and **security-aware automation**.
 
-### Nmap Workshop & Output Guide  
-An annotated, practical Nmap output walkthrough for defenders.  
-👉 https://github.com/MertxMerkit/nmap-turkce-rehber
+I care about:
+- how systems behave under pressure  
+- how automation removes fragility  
+- how security decisions are made *early*, not late  
 
-### Nmap + MITRE ATT&CK Interpretation
-How to interpret Nmap output in light of **MITRE ATT&CK Discovery tactics** from a defensive perspective.  
-👉 https://github.com/MertxMerkit/nmap-mitre-attack-rehberi
+Clean architecture, clear intent, minimal noise.
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Roles & Focus Areas
 
-*Pinned repositories show my key work on security education and practical defensive content.*
+### ☁️ Cloud / Infrastructure
+- Cloud-native application workflows  
+- AWS, Azure, GCP fundamentals & services  
+- Firebase-based backend flows  
+- Linux-first server environments  
+- Nginx configuration & deployment logic  
+
+### 💻 Software Engineering
+- Frontend & backend integration  
+- Type-safe, maintainable codebases  
+- Web & mobile application development  
+- UI decisions backed by engineering logic  
+
+### 🔐 Security & Automation
+- Automation-first mindset  
+- Selenium-based testing & workflows  
+- Secure-by-design thinking  
+- Understanding systems before hardening them  
 
 ---
 
-## 💡 Working Philosophy
+## 🛠️ Tech Stack
 
-- I document what I learn.  
-- I share knowledge as open-source resources.  
-- I build **scenario-based guides** to cultivate operational reflexes.
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-> “Security is a matter of **thinking before tooling.**”
+### ☁️ Cloud & Backend
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🧪 Automation & Testing
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+### 💾 Databases & Servers
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+### 🧠 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+### 🎨 Design & UI
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+</p>
+
+### 🐧 OS
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-## 📬 Connect With Me
+## 📦 Featured Work (Pin repos here)
 
-**LinkedIn:** https://www.linkedin.com/in/mert-merkit-35b724335/  
-**Email:** mertmerkit@protonmail.com  
-**Website:** https://mertmerkit.com.tr
+- Cloud & automation focused projects  
+- Web & mobile applications  
+- Security-aware tooling  
+- Documentation-heavy learning repositories  
+
+> Pinned repositories tell your story better than text.
 
 ---
 
-If you find my projects helpful, I’d appreciate a ⭐ on GitHub.  
-Let’s learn together in the cybersecurity journey!
+## 📚 Currently Learning / Improving
+
+- Advanced cloud workflows  
+- Better automation patterns  
+- Scalable backend design  
+- Security fundamentals at system level  
+
+Learning never stops — it just becomes more selective.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MertxMerkit&show_icons=true&theme=tokyonight"/>
+</p>
+
+## 🧩 Engineering Philosophy
+
+> Systems fail where thinking stops.  
+> Automate what repeats.  
+> Secure what matters.  
+> Simplicity scales better than cleverness.
+
+---
+
+<p align="center">
+  <i>Minimal noise. Maximum signal.</i>
+</p>
