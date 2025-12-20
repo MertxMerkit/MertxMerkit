@@ -1,8 +1,12 @@
-<!-- ===================== -->
-<!--  GITHUB PROFILE README -->
-<!-- ===================== -->
+<!-- ================================================= -->
+<!--              GITHUB PROFILE README                -->
+<!-- ================================================= -->
 
-<h1 align="center">👋 Hi, I'm Mert</h1>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Mert%20Merkit&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Software • Cloud • Security • Automation</h3>
 
 <p align="center">
@@ -19,38 +23,41 @@
 
 ## 🧠 About Me
 
-I design and build **systems that are meant to survive reality** — not demos.  
-My work sits at the intersection of **software engineering**, **cloud infrastructure**, and **security-aware automation**.
+I build systems that are **designed to survive reality**, not tutorials.
 
-I care about:
-- how systems behave under pressure  
-- how automation removes fragility  
-- how security decisions are made *early*, not late  
+My work lives at the intersection of:
+**software engineering**, **cloud infrastructure**, and **security-aware automation**.
 
-Clean architecture, clear intent, minimal noise.
+I value:
+- systems that explain themselves  
+- automation over repetition  
+- clarity over cleverness  
+- security as a design decision, not an afterthought  
+
+Minimal noise. Maximum signal.
 
 ---
 
-## 🎯 Roles & Focus Areas
+## 🎯 Professional Focus (Role-Based)
 
-### ☁️ Cloud / Infrastructure
-- Cloud-native application workflows  
-- AWS, Azure, GCP fundamentals & services  
-- Firebase-based backend flows  
-- Linux-first server environments  
-- Nginx configuration & deployment logic  
+### ☁️ Cloud & Infrastructure
+- Cloud-native workflows (AWS • Azure • GCP)
+- Firebase-backed applications
+- Linux-first server environments
+- Nginx configuration & deployment logic
+- Understanding infra before scaling it
 
 ### 💻 Software Engineering
-- Frontend & backend integration  
-- Type-safe, maintainable codebases  
-- Web & mobile application development  
-- UI decisions backed by engineering logic  
+- Web & mobile application development
+- Frontend–backend integration
+- Type-safe, maintainable code
+- UI decisions backed by engineering logic
 
 ### 🔐 Security & Automation
-- Automation-first mindset  
-- Selenium-based testing & workflows  
-- Secure-by-design thinking  
-- Understanding systems before hardening them  
+- Automation-first mindset
+- Selenium-based testing flows
+- Secure-by-design thinking
+- Reducing human error with systems
 
 ---
 
@@ -103,35 +110,37 @@ Clean architecture, clear intent, minimal noise.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+## 📦 Featured Work
 
-## 📦 Featured Work (Pin repos here)
-
-- Cloud & automation focused projects  
+- Cloud & automation projects  
 - Web & mobile applications  
 - Security-aware tooling  
 - Documentation-heavy learning repositories  
-
-> Pinned repositories tell your story better than text.
-
 ---
 
 ## 📚 Currently Learning / Improving
 
-- Advanced cloud workflows  
-- Better automation patterns  
-- Scalable backend design  
-- Security fundamentals at system level  
-
-Learning never stops — it just becomes more selective.
+- Advanced cloud architecture
+- Automation patterns & testing strategy
+- Backend scalability fundamentals
+- System-level security concepts
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MertxMerkit&show_icons=true&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertxMerkit&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MertxMerkit&theme=tokyo-night"/>
+</p>
+
 
 ## 🧩 Engineering Philosophy
 
@@ -141,6 +150,10 @@ Learning never stops — it just becomes more selective.
 > Simplicity scales better than cleverness.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+</p>
 
 <p align="center">
   <i>Minimal noise. Maximum signal.</i>
